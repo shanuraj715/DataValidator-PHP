@@ -1,0 +1,29 @@
+{
+    "github": "https://github.com/shanuraj715/DataValidator",
+    "phpversion": "5.3",
+    "version": "1.0",
+    "developer": {
+        "name": "Shanu Raj",
+        "email": "shanuraj715@gmail.com",
+        "country": "india",
+        "links": {
+            "github": "https://github.com/shanuraj715"
+        }
+    },
+    "modules": [
+        "nospace",
+        "strContains",
+        "minLength",
+        "maxLength",
+        "isEmail",
+        "isLowercase",
+        "isUppercase",
+        "lengthBetween",
+        "anyNumber",
+        "anyAlphabet",
+        "validatePassword",
+        "validateUsername",
+        "isCountryExists",
+        "isWebsite"
+    ]
+}
